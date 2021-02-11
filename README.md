@@ -8,7 +8,7 @@
 
 * [블록체인 프로젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956748344&orderClick=LEa&Kc=)
 
-### My Infomations
+### My Informations
 
 [Stackoverflow](https://stackoverflow.com/users/8667760/%eb%a9%8d%ea%b0%9c-mung?tab=profile)
 
