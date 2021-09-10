@@ -24,7 +24,7 @@
 
 [[Android]거래소 비교하기](https://play.google.com/store/apps/details?id=com.mung.weather)
 
-### 심심풀이
+### 메타버스 만들기 위한 준비
 
 [phaser physics](https://pjt3591oo.github.io/phaser-tutorial-1/)
 
