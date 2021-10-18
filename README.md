@@ -30,3 +30,8 @@
 
 [phaser tile editor](https://pjt3591oo.github.io/phaser-tilemap-practice/)
 
+### My Skill
+
+Javascript, Typescript, Python, Solidity, Rust
+
+
