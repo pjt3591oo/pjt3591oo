@@ -10,21 +10,21 @@
 
 ### MyService
 
-[Exchange Compared](https://pjt3591oo.github.io/coin-dashboard/)
+* [Exchange Compared](https://pjt3591oo.github.io/coin-dashboard/)
 
-[[Android]거래소 비교하기](https://play.google.com/store/apps/details?id=com.mung.weather)
+* [[Android]거래소 비교하기](https://play.google.com/store/apps/details?id=com.mung.weather)
 
 ### my library
 
-[npm](https://www.npmjs.com/package/@mung-office)
+* [npm](https://www.npmjs.com/package/@mung-office)
 
-[pypi](https://pypi.org/user/pjt3591oo/)
+* [pypi](https://pypi.org/user/pjt3591oo/)
 
 ### My Informations
 
-[Stackoverflow](https://stackoverflow.com/users/8667760/%eb%a9%8d%ea%b0%9c-mung?tab=profile)
+* [Stackoverflow](https://stackoverflow.com/users/8667760/%eb%a9%8d%ea%b0%9c-mung?tab=profile)
 
-[Blog](https://blog.naver.com/pjt3591oo)
+* [Blog](https://blog.naver.com/pjt3591oo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjt3591oo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,9 +32,9 @@
 
 ### 메타버스 만들기 위한 준비
 
-[phaser physics](https://pjt3591oo.github.io/phaser-tutorial-1/)
+* [phaser physics](https://pjt3591oo.github.io/phaser-tutorial-1/)
 
-[phaser tile editor](https://pjt3591oo.github.io/phaser-tilemap-practice/)
+* [phaser tile editor](https://pjt3591oo.github.io/phaser-tilemap-practice/)
 
 ### My Skill
 
