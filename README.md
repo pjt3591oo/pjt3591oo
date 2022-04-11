@@ -38,6 +38,6 @@
 
 ### My Skill
 
-Javascript, Typescript, Python, Solidity, Rust
+JavaScript, TypeScript, Python, Solidity, Rust
 
 
