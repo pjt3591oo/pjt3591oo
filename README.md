@@ -6,7 +6,7 @@
 
 * [블록체인 프로젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956748344&orderClick=LEa&Kc=)
 
-* [이토록 쉬운 NFT 개발 스타터팩]([http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710821&orderClick=LAG&Kc=&fbclid=IwAR0aHLKnYkbQ40qcF5iMIfUUDuzyJghK8Ny0SClQwdr42Vp44e3Z4cnPgOY]
+* [이토록 쉬운 NFT 개발 스타터팩](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710821&orderClick=LAG&Kc=&fbclid=IwAR0aHLKnYkbQ40qcF5iMIfUUDuzyJghK8Ny0SClQwdr42Vp44e3Z4cnPgOY)
 
 ### MyService
 
