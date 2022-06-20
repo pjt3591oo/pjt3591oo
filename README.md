@@ -18,7 +18,7 @@
 
 ### my library
 
-* [npm](https://www.npmjs.com/package/@mung-office)
+* [npm](https://www.npmjs.com/~pjt3591oo)
 
 * [pypi](https://pypi.org/user/pjt3591oo/)
 
