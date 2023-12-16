@@ -10,6 +10,8 @@
 
 * [[blog]컨테이너 기술](https://github.com/pjt3591oo/container_learning)
 
+* [[blog] 인증](https://github.com/pjt3591oo/auth_learning)
+
 ### MyService
 
 * [[Web]Exchange Compared](https://pjt3591oo.github.io/coin-dashboard/)
