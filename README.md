@@ -8,10 +8,6 @@
 
 * [이토록 쉬운 NFT 개발 스타터팩](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710821&orderClick=LAG&Kc=&fbclid=IwAR0aHLKnYkbQ40qcF5iMIfUUDuzyJghK8Ny0SClQwdr42Vp44e3Z4cnPgOY)
 
-* [[blog]컨테이너 기술](https://github.com/pjt3591oo/container_learning)
-
-* [[blog] 인증](https://github.com/pjt3591oo/auth_learning)
-
 ### MyService
 
 * [[Web]Exchange Compared](https://pjt3591oo.github.io/coin-dashboard/)
@@ -28,6 +24,8 @@
 
 ### My Informations
 
+* [Resume](https://pjt3591oo.github.io/resume/)
+
 * [Stackoverflow](https://stackoverflow.com/users/8667760/%eb%a9%8d%ea%b0%9c-mung?tab=profile)
 
 * [Blog](https://blog.naver.com/pjt3591oo)
@@ -42,16 +40,9 @@
 
 * [phaser tile editor](https://pjt3591oo.github.io/phaser-tilemap-practice/)
 
-### savle
-
-* [서비스 홈페이지](https://savle.net/)
-
-* [구글마켓](https://play.google.com/store/apps/details?id=io.buencamino.app.just)
-
-* [애플스토어](https://apps.apple.com/kr/app/savle-%EC%84%B8%EC%9D%B4%EB%B8%94/id1562933122)
 
 ### My Skill
 
-JavaScript, TypeScript, Python, Solidity, Rust
+JavaScript, TypeScript, Python, Solidity, Rust, Move
 
 
